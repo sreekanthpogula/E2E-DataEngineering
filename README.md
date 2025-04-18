@@ -13,7 +13,7 @@ This project serves as a comprehensive guide to building an end-to-end data engi
 
 ## System Architecture
 
-![System Architecture](/home/sreekanthpogula/E2E-DataEngineering/Data engineering architecture.png)
+![Data engineering architecture.png](Images/Data%20engineering%20architecture.png)
 
 The project is designed with the following components:
 
